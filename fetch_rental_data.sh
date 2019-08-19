@@ -5,6 +5,12 @@
 #@hatschito & @bellackn
 #**************************************************************
 
+# HS 8.8.2019 There is an issue with csvkit: https://github.com/wireservice/csvkit/issues/982 Some dependencies might not be OK concerning Python importlib 
+# Json cannot be converted to csv. A Workaround is the online converter: http://convertcsv.com/json-to-csv.htm
+#This online converter works really well!
+
+# Pfad zum Skript /media/harald/Harald_1/AUSTAUSCH_TEMP/RealEstateProject$
+
 
 # Pdad zum Skript /media/harald/Harald_1/AUSTAUSCH_TEMP/RealEstateProject$
 
